@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="[Your Portfolio URL]">🌐 Portfolio</a> |
-  <a href="[Your LinkedIn URL]">💼 LinkedIn</a> |
+  <a href="[https://www.linkedin.com/in/arunkumar-ragu/]">💼 LinkedIn</a> |
   <a href="[Your Twitter URL]">🐦 Twitter</a> |
   <a href="[Your Instagram URL]">📷 Instagram</a>
 </p>
