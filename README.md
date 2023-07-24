@@ -4,9 +4,8 @@
 
 <p align="center">
   <a href="[Your Portfolio URL]">🌐 Portfolio</a> |
-  <a href="[https://www.linkedin.com/in/arunkumar-ragu/]">💼 LinkedIn</a> |
-  <a href="[Your Twitter URL]">🐦 Twitter</a> |
-  <a href="[Your Instagram URL]">📷 Instagram</a>
+  <a href="https://www.linkedin.com/in/arunkumar-ragu/">💼 LinkedIn</a> |
+  <a href="https://www.instagram.com/aruneeyy_">📷 Instagram</a>
 </p>
 
 <h2>🚀 About Me</h2>
@@ -51,14 +50,6 @@
   Interested in connecting or collaborating? Shoot me an email at [Your Email Address].
   I'm always excited to hear from fellow developers, designers, and tech enthusiasts!
   Let's get in touch and turn ideas into reality. 🚀
-</p>
-
-<h2>🌐 Databases</h2>
-
-<p>
-  I have experience working with the following databases:
-  - PostgreSQL
-  - MySQL
 </p>
 
 <h2>🙏 Thanks for visiting!</h2>
