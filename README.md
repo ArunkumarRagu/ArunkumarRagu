@@ -19,9 +19,10 @@
 <h2>💻 Skills</h2>
 
 <ul>
+  <li>Ruby on Rails</li>
   <li>Java</li>
   <li>C</li>
-  <li>Ruby</li>
+  <li>GIT</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Bootstrap</li>
@@ -33,9 +34,9 @@
 
 <p>Here are some of my notable projects:</p>
 
-- [Project 1](Link to Project 1): Brief description of Project 1.
-- [Project 2](Link to Project 2): Brief description of Project 2.
-- [Project 3](Link to Project 3): Brief description of Project 3.
+- [Project 1].
+- [Project 2].
+- [Project 3].
 
 <h2>🤝 Contributions</h2>
 
@@ -47,7 +48,7 @@
 <h2>📧 Contact</h2>
 
 <p>
-  Interested in connecting or collaborating? Shoot me an email at [Your Email Address].
+  Interested in connecting or collaborating? Shoot me an email at arunarun4515@gmail.com.
   I'm always excited to hear from fellow developers, designers, and tech enthusiasts!
   Let's get in touch and turn ideas into reality. 🚀
 </p>
