@@ -20,7 +20,6 @@
 
 <ul>
   <li>Ruby on Rails</li>
-  <li>Ruby on Rails</li>
   <li>Java</li>
   <li>GIT</li>
   <li>HTML</li>
