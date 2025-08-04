@@ -29,14 +29,6 @@
   <li>PHP</li>
 </ul>
 
-<h2>🚀 Projects</h2>
-
-<p>Here are some of my notable projects:</p>
-
-- [Project 1].
-- [Project 2].
-- [Project 3].
-
 <h2>🤝 Contributions</h2>
 
 <p>
