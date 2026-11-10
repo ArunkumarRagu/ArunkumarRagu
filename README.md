@@ -1,53 +1,71 @@
-<h1 align="center">👋 Hello, I'm Arunkumar</h1>
+# 👋 Hi, I'm Arunkumar
 
-<p align="center">Passionate Developer | Coding Enthusiast | Problem Solver</p>
+### Software Engineer | Frontend & Full-Stack Developer
 
-<p align="center">
-  <a href="[Your Portfolio URL]">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/arunkumar-ragu/">💼 LinkedIn</a> |
-  <a href="https://www.instagram.com/aruneeyy_">📷 Instagram</a>
-</p>
+I’m a Software Engineer with **2+ years of experience** building and maintaining web applications. I enjoy developing intuitive user interfaces, building reusable components, integrating APIs, and solving real-world engineering problems.
 
-<h2>🚀 About Me</h2>
+I'm particularly interested in frontend engineering, modern web technologies, and exploring how AI can improve software development.
 
-<p>
-  Hello! I'm Arunkumar, a passionate developer with a love for coding and problem-solving.
-  I enjoy working with a variety of programming languages and technologies to build innovative and user-friendly applications.
-  Let's collaborate and create something awesome together! 😄
-</p>
+---
 
-<h2>💻 Skills</h2>
+### 💻 Technical Skills
 
-<ul>
-  <li>Ruby on Rails</li>
-  <li>Java</li>
-  <li>GIT</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>JavaScript</li>
-  <li>PHP</li>
-</ul>
+**Frontend Development**
+- React.js, Next.js, Angular, React Native
+- JavaScript (ES6+), TypeScript (Basic)
+- HTML5, CSS3, Bootstrap
+- Responsive UI Development
+- Reusable Components & Component-Based Architecture
+- DOM Manipulation & Event Handling
+- React Hooks & TanStack Query
 
-<h2>🤝 Contributions</h2>
+**Backend Development**
+- Ruby on Rails
+- Node.js, Express.js, NestJS
+- Python, FastAPI, Django
+- REST API Development & Integration
+- WebSockets & Server-Sent Events (SSE)
 
-<p>
-  I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to reach out.
-  Let's build amazing things together and make a positive impact on the developer community. 🤝
-</p>
+**Databases & Caching**
+- PostgreSQL, MySQL, MongoDB, Microsoft SQL Server
+- Redis
 
-<h2>📧 Contact</h2>
+**Tools & Technologies**
+- Git & GitHub
+- Docker (Basics)
+- Linux, Ubuntu & macOS
+- Jenkins, Jira
+- VS Code
 
-<p>
-  Interested in connecting or collaborating? Shoot me an email at arunarun4515@gmail.com.
-  I'm always excited to hear from fellow developers, designers, and tech enthusiasts!
-  Let's get in touch and turn ideas into reality. 🚀
-</p>
+**Currently Exploring**
+- Generative AI & Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Model Context Protocol (MCP)
+- Workflow Automation with n8n
 
-<h2>🙏 Thanks for visiting!</h2>
+---
 
-<p>
-  Thanks for checking out my GitHub profile and exploring my work.
-  If you find my projects interesting, don't forget to star and fork your favorites!
-  Let's stay connected and continue our coding journey together. Happy coding! 😊
-</p>
+### 🚀 Areas of Interest
+
+- Frontend & UI Engineering
+- Full-Stack Application Development
+- Reusable Component Design
+- API Integration & Application Architecture
+- AI-powered Applications
+- Open-Source Contributions
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and exploring new technologies.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arunkumar-ragu/)
+- 🐙 [GitHub](https://github.com/ArunkumarRagu)
+- 📷 [Instagram](https://www.instagram.com/aruneeyy_)
+
+📧 **Email:** arunarun4515@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
